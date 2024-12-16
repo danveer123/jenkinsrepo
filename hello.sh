@@ -1,1 +1,1 @@
-build test
+echo "build test"
