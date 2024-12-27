@@ -1,3 +1,4 @@
 echo "build test"
+route -n 
 lsblk
-hello danveer all are ruinnign fine state
+echo "hello danveer all are ruinnign fine state"
